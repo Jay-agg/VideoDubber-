@@ -16,7 +16,7 @@ const PathBar = () => {
       )}
       <div>
         <Image
-          src="/videodubber_image.png"
+          src="/assets/videodubber_image.png"
           alt="VideoDubber AI"
           width={80}
           height={60}
